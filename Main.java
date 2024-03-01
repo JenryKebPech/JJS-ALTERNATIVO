@@ -11,6 +11,10 @@ public class Main {
 	
 	Persona sergio = new Persona("Sergio",8378);
 	sergio.mostrar();
+	
+	Persona jenry = new Persona("Jenry",8347);
+	jenry.mostrar();
+
     }
 }
 

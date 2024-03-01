@@ -8,6 +8,9 @@ public class Main {
 
 	Persona julian = new Persona("Julian",8135);
 	julian.mostrar();
+	
+	Persona sergio = new Persona("Sergio",8378);
+	sergio.mostrar();
     }
 }
 
